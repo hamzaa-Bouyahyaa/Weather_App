@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className='main-container'>
-      <input type='text' className='search' placeholder='Search...' value={query} onKeyPress={search} onChange={(e) => setQuery(e.target.value)} />
+      <input type='text' className='search' placeholder='Write country name here...' value={query} onKeyPress={search} onChange={(e) => setQuery(e.target.value)} />
       {weather.main && (
         <div className='city'>
           <h2 className='city-name'>
