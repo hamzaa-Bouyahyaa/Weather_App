@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# PWA
+
+This project is implemented by passion to try the Progressive Web App . PWA is simply when your network is offline u can see another html file rendering in the page, Feel free to try it guys
+
 ## Available Scripts
 
 In the project directory, you can run:
